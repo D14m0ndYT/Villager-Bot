@@ -1,23 +1,23 @@
 {
-  "en":{
-    "lang":"en",
-    "name":"English",
+  "Ita":{
+    "lingua":"ita",
+    "nome":"Italiano",
     "misc":{
-      "petus":"Made by Iapetus11",
-      "pingpong":"The prefix for this server is `{0}` and the help command is `{0}help`\nIf you are in need of more help, you can join the **[Support Server]({1})**.",
+      "petus":"creato da Iapetus11",
+      "pingpong":"Il prefisso per questo server è `{0}` e il comando di aiuto è `{0}help`\nIf se hai bisogno di più aiuto, puoi entrare nel **[Support Server]({1})**.",
       "cooldown_msgs":[
-        "Didn't your parents tell you that [patience is a virtue](http://www.patience-is-a-virtue.org/)? Calm down and wait another **{}**.",
-        "Hey, you need to wait another **{}** before doing that again.",
-        "Hrmmm, looks like you need to wait another **{}** before doing that again.",
-        "Don't you know that [patience is a virtue](http://www.patience-is-a-virtue.org/)! Wait another **{}**.",
-        "Hold on and wait another **{}**."
+        "I tuoi genitori non tiho hanno detto [patience is a virtue](http://www.patience-is-a-virtue.org/)? Calmati e aspetta altri **{}**.",
+        "Hey, devi aspettare altri **{}** prima di farlo ancora.",
+        "Hmmmm, sembra che devi aspettare altri **{}** prima di farlo ancora.",
+        "Non sai che la [patience is a virtue](http://www.patience-is-a-virtue.org/)! Aspetta ancora **{}**.",
+        "Fermati e aspetta ancora **{}**."
       ],
       "errors":{
-        "andioop":"Oops! Something went really wrong... Please take a screenshot and report it on the **[Support Server]({})**, thank you!",
-        "private":"This command can't be used in private chat channels.",
-        "user_perms":"Nice try stupid, but you don't have the permissions to do that!",
-        "bot_perms":"You didn't give me the proper permissions to do that, dummy.",
-        "concurrency":"Hold on! You're using this command tooooo fast!",
+        "andioop":"Oops! Qualcosa è andatoun storto... Per favore prendi uno screenshota e reportalo in **[Support Server]({})**, grazie!",
+        "private":"Questo comando non può essere usato in canali privati.",
+        "user_perms":"Bel tentativo stupido, non hai i permessi per farlo!",
+        "bot_perms":"Non mi hai dato i permessi per farlo, stupido.",
+        "concurrency":"Hold on! You're using this command sooooo fast!",
         "missing_arg":"Looks like you're forgetting to put something in!",
         "bad_arg":"Looks like you didn't type something correctly, try typing it right the first time, dum dum.",
         "not_ready":"Hold on! Villager Bot is still starting up!",
